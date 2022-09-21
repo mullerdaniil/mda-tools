@@ -95,12 +95,13 @@ header button:hover {
 }
 
 header a:hover {
-    background-color: var(--header-background-color-hover);
+    color: var(--header-background-color-hover);
+/*    background-color: var(--header-background-color-hover);
     color: var(--header-background-color);
     box-shadow: 0 0 5px var(--header-background-color-hover),
                 0 0 10px var(--header-background-color-hover),
                 0 0 18px var(--header-background-color-hover);
-    border-radius: 5px;
+    border-radius: 5px;*/
 }
 
 main {
